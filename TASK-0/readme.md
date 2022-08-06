@@ -1,5 +1,5 @@
 # 0. Installation of Ubuntu 20.04
-The following Dual Boot of Ubuntu showed me almost about no errors as i did perfect partition of disk management .
+The following Dual Boot of Ubuntu showed me almost about no errors as i did perfect partition of disk management ......
 The following Encounters that i have faced is that :
 
 ### !!! Before installation of Ubuntu 22.04 LTS ( latest version ) !!!
